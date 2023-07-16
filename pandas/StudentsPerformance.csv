@@ -1,0 +1,19 @@
+gender,parental level of education,lunch,math score,reading score,writing score,Date
+female,bachelor's degree,standard,72,72,74,03-13-2022
+female,some college,standard,69,90,88,03-14-2022
+female,master's degree,standard,,,,03-15-2022
+male,associate's degree,free/reduced,47,57,44,03-13-2022
+male,,,,78,,
+female,associate's degree,,71,83,78,03-15-2022
+female,some college,standard,0,95,92,03-13-2022
+male,some college,free/reduced,40,43,39,03-14-2022
+male,high school,free/reduced,64,64,,03-15-2022
+female,high school,free/reduced,,60,,03-13-2022
+male,associate's degree,standard,58,54,52,03-14-2022
+male,associate's degree,standard,40,52,43,03-15-2022
+female,high school,standard,65,81,73,03-13-2022
+male,some college,standard,78,72,70,03-14-2022
+female,master's degree,standard,50,53,58,03-15-2022
+female,some high school,standard,69,75,78,03-13-2022
+male,high school,standard,88,89,86,03-14-2022
+female,some high school,free/reduced,18,32,28,03-15-2022
